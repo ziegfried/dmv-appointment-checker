@@ -1,0 +1,25 @@
+{
+  "name": "dmv-appointment-checker",
+  "version": "1.0.0",
+  "description": "Check for DMV appointments",
+  "main": "check.js",
+  "dependencies": {
+    "zombie": "^2.5.1"
+  },
+  "devDependencies": {
+    "moment": "^2.9.0",
+    "request": "^2.53.0",
+    "underscore": "^1.8.2",
+    "zombie": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziegfried/dmv-appointment-checker.git"
+  },
+  "author": "ziegfried",
+  "license": "MIT",
+  "homepage": "https://github.com/ziegfried/dmv-appointment-checker"
+}
